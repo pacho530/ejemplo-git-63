@@ -2,5 +2,11 @@ este es un archivo de rama1
 se hacen cambios que no estan estables 
 pueden esperar 
 requieren revisio
+<<<<<<< .merge_file_YAxTUC
 desde el servidor toco la linea 5
 y la 6
+=======
+se agrega un cambio en la linea 5
+en la 6
+y en la 7 
+>>>>>>> .merge_file_YZtKTp
